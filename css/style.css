@@ -894,7 +894,7 @@ h1,h2,h3,h4,h5,h6{ font-weight: 900;font-family: helvetica;}
 .dynamic-content-holder h4{font-weight: 700;}
 
 h2{font-size: 42px; font-weight: 700; color: #c23943;text-transform: uppercase;margin-bottom: 17px; font-family: helvetica;}
-a{color: #fff;}
+/* a{color: #fff;} */
 a:hover{color: #c23943;}
 .dynamic-content-holder h2{text-transform: capitalize; color: #333;font-size: 48px;font-weight: 300;text-transform: uppercase;}
 .dynamic-content-holder h3 {color: #323232;font-weight: 500;font-size: 24px;margin-bottom: 10px;}
@@ -1170,7 +1170,7 @@ a.fa, .section-footer .add-btn, .viewmore_btn, .tagsinput .tag a {
 .jxt-news-container {margin-top: -28px;}
 
 
-/* 8. Responsive Media Queries-------------------------------------------------- */
+/* . Responsive Media Queries-------------------------------------------------- */
 @media (min-width: 992px) {
     body {padding-top:226px; }
     ul.nav li.dropdown:hover > ul.dropdown-menu { display: block; }
